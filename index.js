@@ -1,6 +1,6 @@
 //  1️⃣ Desafio Classificador de nível de Herói
 
-const nome = "Herói";
+const nome = "lGoulart";
 
 // Objetivo: Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói
 let nivel;
@@ -36,5 +36,5 @@ switch (true) {
         nivel = "Ferro";
 }
 
-console.log("O Herói ${nome} está no nível: ${nivel}");
+console.log(`O Herói ${nome} está no nível: ${nivel}`);
         
