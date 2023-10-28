@@ -17,7 +17,7 @@ switch (true) {
     case xp >= 2001 && xp <= 5000:
         nivel = "Prata";
         break;
-    case xp >= 6001 && xp <= 7000:
+    case xp >= 5001 && xp <= 7000:
         nivel = "Ouro";
         break;
     case xp >= 7001 && xp <= 8000:
